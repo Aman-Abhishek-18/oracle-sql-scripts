@@ -1,4 +1,13 @@
-# Overview
+# Project Aim
+The primary goal of this project is to demonstrate how data from multiple business sources (e.g., Walmart, Reliance, D-Mart, KFC) can be collected and merged into a central main table at a scheduled time using automation, job-scheduled techniques.
+
+This approach is ideal for:
+
+Daily operational reporting
+
+Data consolidation from distributed branches
+
+## Overview
 This repository contains stored procedure, scripts for managing and analyzing data from 5 Starbucks branches. 
 All branch data is automatically merged into the Starbuks's master one, using a scheduled job.
 
